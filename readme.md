@@ -70,4 +70,7 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ABCasx-1&layout=compact&show_icons=true&theme=tokyonight&hide=issues)
 <br>
 <br>
-<div align="center">You are my ![Visitor Count](https://profile-counter.glitch.me/ABCasx-1/count.svg) visitor! 🥰</div>
+<div align="center">
+  You are my <img src="https://profile-counter.glitch.me/ABCasx-1/count.svg" alt="Visitor Count"> visitor! 🥰
+</div>
+
