@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://leetcode.cn/u/nanged" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nanged23" height="30" width="40" /></a>
 </p>
-
+<br>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -70,4 +70,4 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ABCasx-1&layout=compact&show_icons=true&theme=tokyonight&hide=issues)
 <br>
 <br>
-You are my ![Visitor Count](https://profile-counter.glitch.me/ABCasx-1/count.svg) visitor! 🥰
+<div align="center">You are my ![Visitor Count](https://profile-counter.glitch.me/ABCasx-1/count.svg) visitor! 🥰</div>
