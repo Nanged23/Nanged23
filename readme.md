@@ -66,8 +66,8 @@
 
 ## About My GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABCasx-1&layout=compact&theme=tokyonight)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ABCasx-1&layout=compact&show_icons=true&theme=tokyonight&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanged23&layout=compact&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanged23&layout=compact&show_icons=true&theme=tokyonight&hide=issues)
 <br>
 <br>
 <div align="center">
